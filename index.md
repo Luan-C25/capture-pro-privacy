@@ -1,6 +1,6 @@
 # Capture Pro - Privacy Policy
 
-**Last Updated: September 18, 2026**
+**Last Updated: October 19, 2026**
 
 ## Overview
 
@@ -22,7 +22,8 @@ In short: your screenshots stay on your device unless you choose to share one. T
 
 - **Your screenshots.** Recent captures are kept inside the Extension on your own device, so you can reopen them. Up to 50 are kept, and older ones are removed automatically.
 - **Screenshots you save.** When you click Save PNG, the image goes to your Downloads folder like any other download.
-- **Extension settings.** Your preferences, your daily export count, and your Pro licence details are stored locally using Chrome's storage.
+- **Extension settings.** Your preferences, such as the capture timer, and your Pro licence details are stored locally using Chrome's storage.
+- **Where personal details appear in a capture.** When you take a screenshot, the Extension looks for email addresses, phone numbers, card numbers and street addresses in the text of the page, so the editor can offer to black them out for you. This happens entirely on your device. Only the position of each one in the screenshot is kept, alongside that capture. The text itself is never stored and never sent anywhere.
 
 This data stays on your device. It is never sent to us.
 
@@ -38,7 +39,7 @@ When you click **Share link**, that one screenshot is uploaded so it can be view
 - **Shared images are deleted automatically 30 days after they are created**
 - Nothing is uploaded unless you click Share link. Capturing, annotating, copying and saving never upload anything
 
-Before you share, you can use the Blur tool to pixelate private details such as email addresses, names or account numbers.
+Before you share, you can use the Redact tool to cover private details such as email addresses, names or account numbers with solid black, or the Blur tool to pixelate them.
 
 **2. Pro licence verification**
 
@@ -49,7 +50,7 @@ If you enter a Pro licence key, it is sent to Gumroad, where Pro is purchased, t
 Your data is used only for the following purposes:
 
 - Storing your screenshots and settings on your device
-- Enforcing the free plan's daily export limit
+- Finding personal details in a capture so you can black them out, on your device
 - Creating share links, when you ask for one
 - Verifying your Pro licence
 
