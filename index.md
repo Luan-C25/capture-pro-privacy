@@ -89,7 +89,7 @@ We may update this privacy policy from time to time. Any changes will be posted 
 
 ## Contact Us
 
-If you have questions about this privacy policy or our privacy practices, contact us at: luanchild15@yahoo.com
+If you have questions about this privacy policy or our privacy practices, contact us at: luministcoaststudio@gmail.com
 
 ## Summary
 
